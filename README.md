@@ -12,6 +12,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Functionality
 
-Application should allow users to create and save notes.
-Application should allow users to view previously saved notes.
-Application should allow users to delete previously saved notes.
+App allows user:
+* to create and save notes
+* to view previously saved notes
+* to delete previously saved notes
